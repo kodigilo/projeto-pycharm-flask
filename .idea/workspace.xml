@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d248f7b-b23d-4508-a57b-51b7594cdb5d" name="Default Changelist" comment="" />
+    <list default="true" id="3d248f7b-b23d-4508-a57b-51b7594cdb5d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +16,9 @@
         <option value="Flask Main" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JupyterTrust" id="2ea6517e-8439-463e-af54-a2f707fe103b" />
   <component name="ProjectId" id="1io1J3WLlYjNQxjoe7jZ7lGanby" />
@@ -51,10 +57,20 @@
       <option name="presentableId" value="Default" />
       <updated>1602559055500</updated>
       <workItem from="1602559064774" duration="28000" />
+      <workItem from="1602559274637" duration="69000" />
+      <workItem from="1603730171297" duration="28000" />
+      <workItem from="1606494470928" duration="9000" />
+      <workItem from="1609034426398" duration="12000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="221" y="100" key="SettingsEditor" timestamp="1603730194003">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1603730194003" />
   </component>
 </project>
